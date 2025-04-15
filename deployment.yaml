@@ -18,7 +18,7 @@ spec:
         - name: dotnet-webapi
           image: dockerimage.azurecr.io/terra-jenk-docker:latest 
           ports:
-            - containerPort: 80
+            - containerPort: 8080
 ---
 apiVersion: v1
 kind: Service
@@ -30,4 +30,4 @@ spec:
     app: dotnet-webapi
   ports:
     - port: 80
-      targetPort: 80
+      targetPort: 8080
