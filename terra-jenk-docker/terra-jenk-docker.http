@@ -1,0 +1,6 @@
+@terra_jenk_docker_HostAddress = http://localhost:5092
+
+GET {{terra_jenk_docker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

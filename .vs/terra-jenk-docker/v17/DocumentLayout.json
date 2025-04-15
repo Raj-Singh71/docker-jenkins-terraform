@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajsi\\Downloads\\react\\.net\\terra-jenk-docker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\rajsi\\Downloads\\react\\.net\\terra-jenk-docker\\deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F84E1F-7994-4E42-8838-690A7457D685}|terra-jenk-docker\\terra-jenk-docker.csproj|c:\\users\\rajsi\\downloads\\react\\.net\\terra-jenk-docker\\terra-jenk-docker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F3F84E1F-7994-4E42-8838-690A7457D685}|terra-jenk-docker\\terra-jenk-docker.csproj|solutionrelative:terra-jenk-docker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F84E1F-7994-4E42-8838-690A7457D685}|terra-jenk-docker\\terra-jenk-docker.csproj|c:\\users\\rajsi\\downloads\\react\\.net\\terra-jenk-docker\\terra-jenk-docker\\terra-jenk-docker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3F84E1F-7994-4E42-8838-690A7457D685}|terra-jenk-docker\\terra-jenk-docker.csproj|solutionrelative:terra-jenk-docker\\terra-jenk-docker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "deployment.yaml",
+              "DocumentMoniker": "C:\\Users\\rajsi\\Downloads\\react\\.net\\terra-jenk-docker\\deployment.yaml",
+              "RelativeDocumentMoniker": "deployment.yaml",
+              "ToolTip": "C:\\Users\\rajsi\\Downloads\\react\\.net\\terra-jenk-docker\\deployment.yaml",
+              "RelativeToolTip": "deployment.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-15T06:53:07.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\rajsi\\Downloads\\react\\.net\\terra-jenk-docker\\terra-jenk-docker\\Dockerfile",
+              "RelativeDocumentMoniker": "terra-jenk-docker\\Dockerfile",
+              "ToolTip": "C:\\Users\\rajsi\\Downloads\\react\\.net\\terra-jenk-docker\\terra-jenk-docker\\Dockerfile",
+              "RelativeToolTip": "terra-jenk-docker\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-15T06:38:43.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "terra-jenk-docker",
+              "DocumentMoniker": "C:\\Users\\rajsi\\Downloads\\react\\.net\\terra-jenk-docker\\terra-jenk-docker\\terra-jenk-docker.csproj",
+              "RelativeDocumentMoniker": "terra-jenk-docker\\terra-jenk-docker.csproj",
+              "ToolTip": "C:\\Users\\rajsi\\Downloads\\react\\.net\\terra-jenk-docker\\terra-jenk-docker\\terra-jenk-docker.csproj",
+              "RelativeToolTip": "terra-jenk-docker\\terra-jenk-docker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T06:18:46.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
