@@ -13,6 +13,11 @@ namespace terra_jenk_docker
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.WebHost.ConfigureKestrel(serverOptions =>
+{
+    serverOptions.ListenAnyIP(8080); // or whatever port you're using in the YAML
+});
+
 
             var app = builder.Build();
 
