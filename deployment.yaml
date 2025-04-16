@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: dotnet-webapi
-          image: dockerimage.azurecr.io/terra-jenk-docker:latest 
+          image: mandacontainer2342423.azurecr.io/terra-jenk-docker:latest 
           ports:
             - containerPort: 8080
 ---
