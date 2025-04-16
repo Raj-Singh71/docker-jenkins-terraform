@@ -31,9 +31,7 @@ resource "azurerm_kubernetes_cluster" "aks" {
   identity {
     type = "SystemAssigned"
   }
-  acr_attach {
-    acr_name = "mandacontainer2342423"
-  }
+
 
 }
 
